@@ -1,7 +1,7 @@
 {
   "name": "react-fa-icon-picker",
-  "version": "1.0.3",
-  "description": "An icon picker for font-awesome icons",
+  "version": "1.0.0",
+  "description": "An icon picker for font-awesome icons v6.1.1",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DATechnologies/react-fa-icon-picker.git"
+    "url": "git+https://github.com/mcmastermind/react-fa-6-icon-picker.git"
   },
-  "author": "Cory McAboy",
+  "author": "Richard McMaster",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DATechnologies/react-fa-icon-picker/issues"
+    "url": "https://github.com/mcmastermind/react-fa-6-icon-picker/issues"
   },
-  "homepage": "https://github.com/DATechnologies/react-fa-icon-picker#readme",
+  "homepage": "https://github.com/mcmastermind/react-fa-6-icon-picker#readme",
   "peerDependencies": {
     "react": "^16.8.0",
     "react-dom": "^16.8.0"
